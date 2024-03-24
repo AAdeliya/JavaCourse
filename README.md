@@ -1,0 +1,2 @@
+# JavaCourse
+For learning purpose
